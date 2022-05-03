@@ -8,10 +8,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'TreePPL',
   tagline: 'A Probabilistic Programming Language for Statistical Phylogenetics',
-  url: 'http://treeppl.org/',
-  baseUrl: '/',
+  url: 'https://dlunde.github.io/',
+  baseUrl: '/treeppl.github.io/',
   projectName: 'treeppl.github.io',
-  organizationName: 'treeppl',
+  organizationName: 'dlunde',
   trailingSlash: false,
   deploymentBranch: 'gh-pages',
   // TODO We should eventually fix broken links and throw if any are found
